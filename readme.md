@@ -27,7 +27,7 @@ Most of the testing was done using JUnit tests located within the src directory.
 Programs are submitting by executing the RobotApp.scala module and providing the filename of the program as the first
 command line argument.
 
-This is the result of running the roundTheWorld program that places the robot at the center, moves it
+This is the result of running the data/roundTheWorld.txt program that places the robot at the center, moves it
 to all four map corners and returns to the center.
 
 ~~~~
